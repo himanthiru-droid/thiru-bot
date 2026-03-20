@@ -3,6 +3,5 @@ pandas
 numpy
 pyotp
 requests
-schedule
-websocket-client
 smartapi-python
+python-dotenv
